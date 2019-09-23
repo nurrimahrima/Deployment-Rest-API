@@ -64,13 +64,13 @@ As statement above, this API deployment will be testing on API testing called *P
 
 **V. Interpretation**<br>
 
-- If the results issued are 'Tidak Terlambat' then it means that it is possible that the account will not make late payments in the next   several periods. Some actions that can be taken include:<br>
+- If the results issued are 'Tidak Terlambat' then it means that it is possible that the account will not make late payments in the next   several periods. Some actions that can be taken by company includes:<br>
     1. provide notification to keep credit within the middle to low risk limit<br>
     2. giving promos or compensation for being a good creditor<br>
     3. provide special treatment so that creditors can recommend the program to others<br>
     4. retain customers to become loyal customers
 
-- If the results issued are 'Terlambat' then it means that it is possible that the account will make late payments in the next several     periods. Some actions that can be taken include:<br>
+- If the results issued are 'Terlambat' then it means that it is possible that the account will make late payments in the next several     periods. Some actions that can be taken by company includes:<br>
     1. give a warning for the late payment<br>
     2. announce the sanctions if notifications are ignored<br>
     3. terminating the creditor's account

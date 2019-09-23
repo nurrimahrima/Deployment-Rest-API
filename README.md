@@ -1,6 +1,7 @@
 # Deployment-Rest-API
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖<br>
+
 **I. Introduction** <br>
+
 This is Machine Learning Deployment by Rest API. <br>
 Application Programming Interface (API) is interface in the form of a set of functions, communication protocols, or tools that can be run by other programs. Where interface is the same part between two or more separate components in a computer system.
 
@@ -13,7 +14,9 @@ There are several applications of API, such as:<br>
 
 This repository will demonstrate one of the implementation of REST API and our use case is Credit Scoring prediction. This Machine Learning API demonstration is using *Flask*, a web framework in Python, and then it will be deployed on API testing called *Postman*.
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖<br>
+
 **II. Summary Steps**<br>
+
   1. Build a model using Jupyter Notebook, which is Credit Scoring prediction using Decision Tree.<br>
   2. Save the model object as a pickle file (serialization) => 'DecisionTree.pkl'<br>
   3. Create flask environment that will have an API endpoint.  <br>
@@ -25,7 +28,9 @@ In the coding part, there will be three files created:<br>
   2. serverDT.py => handle POST request and return result <br>
   3. requestDT.py => to send request 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖<br> 
+
 **III. Datasets**<br>
+
   - AGE <br>
   - LIMIT_BAL = Credit Limit<br>
   - EDUCATION = Education Level <br>
@@ -51,10 +56,14 @@ The result of this prediction will be:<br>
   0 = 'Tidak Terlambat' if the account is predicted not to be late paying<br>
   1 = 'Terlambat' if the account is predicted to be late paying
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖<br>
+
 **IV. How The Model Interface Works**<br>
+
 As statement above, this API deployment will be testing on API testing called *Postman*. How the user interface in Postman works will be explained in the notepad => 'how_test_works.txt'
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖<br>
+
 **V. Interpretation**<br>
+
 - If the results issued are 'Tidak Terlambat' then it means that it is possible that the account will not make late payments in the next   several periods. Some actions that can be taken include:<br>
     1. provide notification to keep credit within the middle to low risk limit<br>
     2. giving promos or compensation for being a good creditor<br>

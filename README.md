@@ -60,7 +60,14 @@ The result of this prediction will be:<br>
 **IV. How The Model Interface Works**<br>
 
 As statement above, this API deployment will be testing on API testing called *Postman*. How the user interface in Postman works?
-First, you need to copy my *pythonanywhere* link to connect with the server : rimaanr.pythonanywhere.com/api and paste it with format POST like in this picture below. And then you need to make sure that the 'Header' format
+First, you need to copy my *pythonanywhere* link to connect with the server : rimaanr.pythonanywhere.com/api and paste it with format POST like in the first picture below. Here is the example of inputting the data.
+
+![Credit](Credit.JPG)
+
+And then you need to make sure that the 'Header' and 'Temporary Header' format is as shown below.
+
+![Body](Body.JPG)
+
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖<br>
 
 **V. Interpretation**<br>

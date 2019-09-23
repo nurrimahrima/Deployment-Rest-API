@@ -1,0 +1,305 @@
+This is the example of the input data for Credit Scoring for one or more than one observations :
+
+[{"LIMIT_BAL":400000,
+                          
+		"MARRIAGE":1,
+                          
+		"EDUCATION":1,
+                          
+		"SEX":2,
+                          
+		"AGE":35,
+                          
+		"PAY_1":1,
+                          
+		"PAY_2":2,
+              	            
+		"PAY_3":0,
+                          
+		"BILL_AMT1":33720,
+                          
+		"BILL_AMT2":29480,
+                          
+		"BILL_AMT3":33720,
+                          
+		"PAY_AMT1":15000,
+                          
+		"PAY_AMT2":15000,
+                          
+		"PAY_AMT3":12000},
+ {"LIMIT_BAL":150000,
+                          
+		"MARRIAGE":0,
+                         
+		"EDUCATION":0,
+                          
+		"SEX":1,
+                          
+		"AGE":27,
+                          
+		"PAY_1":3,
+                          
+		"PAY_2":3,
+                          
+		"PAY_3":3,
+                          
+		"BILL_AMT1":30000,
+                          
+		"BILL_AMT2":15000,
+                          
+		"BILL_AMT3":24200,
+                          
+		"PAY_AMT1":12000,
+                          
+		"PAY_AMT2":15000,
+                          
+		"PAY_AMT3":22045},
+ {"LIMIT_BAL":30000,
+                          
+		"MARRIAGE":1,
+                          
+		"EDUCATION":2,
+                          
+		"SEX":1,
+                          
+		"AGE":50,
+                          
+		"PAY_1":3,
+                          
+		"PAY_2":3,
+                          
+		"PAY_3":2,
+                          
+		"BILL_AMT1":15000,
+                          
+		"BILL_AMT2":15000,
+                          
+		"BILL_AMT3":15000,
+                          
+		"PAY_AMT1":0,
+                          
+		"PAY_AMT2":1000,
+                          
+		"PAY_AMT3":0},
+ {"LIMIT_BAL":140000,
+                          
+		"MARRIAGE":0,
+                         
+		"EDUCATION":0,
+                          
+		"SEX":1,
+                          
+		"AGE":27,
+                          
+		"PAY_1":3,
+                          
+		"PAY_2":1,
+                          
+		"PAY_3":0,
+                          
+		"BILL_AMT1":350000,
+                          
+		"BILL_AMT2":5000,
+                          
+		"BILL_AMT3":245200,
+                          
+		"PAY_AMT1":22000,
+                          
+		"PAY_AMT2":14000,
+                          
+		"PAY_AMT3":52045},
+ {"LIMIT_BAL":40000,
+                          
+		"MARRIAGE":0,
+                          
+		"EDUCATION":2,
+                          
+		"SEX":1,
+                          
+		"AGE":30,
+                          
+		"PAY_1":2,
+                          
+		"PAY_2":3,
+                          
+		"PAY_3":3,
+                          
+		"BILL_AMT1":-11000,
+                          
+		"BILL_AMT2":-35000,
+                          
+		"BILL_AMT3":150000,
+                          
+		"PAY_AMT1":0,
+                          
+		"PAY_AMT2":10000,
+                          
+		"PAY_AMT3":90000},
+    
+ {"LIMIT_BAL":64000,
+                          
+		"MARRIAGE":1,
+                          
+		"EDUCATION":4,
+                          
+		"SEX":1,
+                          
+		"AGE":34,
+                          
+		"PAY_1":1,
+                          
+		"PAY_2":3,
+                          
+		"PAY_3":3,
+                          
+		"BILL_AMT1":91000,
+                          
+		"BILL_AMT2":-35000,
+                          
+		"BILL_AMT3":159000,
+                          
+		"PAY_AMT1":0,
+                          
+		"PAY_AMT2":1000,
+                          
+		"PAY_AMT3":9000},
+    
+ {"LIMIT_BAL":140000,
+                          
+		"MARRIAGE":1,
+                          
+		"EDUCATION":3,
+                          
+		"SEX":2,
+                          
+		"AGE":34,
+                          
+		"PAY_1":1,
+                          
+		"PAY_2":3,
+                          
+		"PAY_3":3,
+                          
+		"BILL_AMT1":100000,
+                          
+		"BILL_AMT2":45000,
+                          
+		"BILL_AMT3":-98000,
+                          
+		"PAY_AMT1":78000,
+                          
+		"PAY_AMT2":34000,
+                          
+		"PAY_AMT3":10000},
+    
+ {"LIMIT_BAL":267800,
+                          
+		"MARRIAGE":0,
+                          
+		"EDUCATION":2,
+                          
+		"SEX":2,
+                          
+		"AGE":34,
+                          
+		"PAY_1":0,
+                          
+		"PAY_2":2,
+                          
+		"PAY_3":2,
+                          
+		"BILL_AMT1":104000,
+                          
+		"BILL_AMT2":105000,
+                          
+		"BILL_AMT3":-280000,
+                          
+		"PAY_AMT1":39000,
+                          
+		"PAY_AMT2":76800,
+                          
+		"PAY_AMT3":97800},
+    
+ {"LIMIT_BAL":76700,
+                          
+		"MARRIAGE":1,
+                          
+		"EDUCATION":1,
+                          
+		"SEX":1,
+                          
+		"AGE":43,
+                          
+		"PAY_1":0,
+                          
+		"PAY_2":3,
+                          
+		"PAY_3":3,
+                          
+		"BILL_AMT1":304000,
+                          
+		"BILL_AMT2":105000,
+                          
+		"BILL_AMT3":80000,
+                          
+		"PAY_AMT1":39000,
+                          
+		"PAY_AMT2":76800,
+                          
+		"PAY_AMT3":0},
+    
+ {"LIMIT_BAL":306700,
+                          
+		"MARRIAGE":0,
+                          
+		"EDUCATION":2,
+                          
+		"SEX":1,
+                          
+		"AGE":46,
+                          
+		"PAY_1":2,
+                          
+		"PAY_2":0,
+                          
+		"PAY_3":1,
+      		                    
+		"BILL_AMT1":-389700,
+                          
+		"BILL_AMT2":10000,
+                          
+		"BILL_AMT3":-43000,
+                          
+		"PAY_AMT1":30000,
+                          
+		"PAY_AMT2":0,
+                          
+		"PAY_AMT3":1800},
+    
+ {"LIMIT_BAL":45000,
+                          
+		"MARRIAGE":1,
+                          
+		"EDUCATION":1,
+                          
+		"SEX":0,
+                          
+		"AGE":36,
+                          
+		"PAY_1":1,
+                          
+		"PAY_2":3,
+                          
+		"PAY_3":3,
+                          
+		"BILL_AMT1":-889700,
+                          
+		"BILL_AMT2":170000,
+                          
+		"BILL_AMT3":-130000,
+                          
+		"PAY_AMT1":250000,
+                          
+		"PAY_AMT2":99758,
+                          
+		"PAY_AMT3":-18000}]

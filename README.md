@@ -20,7 +20,7 @@ This repository will demonstrate one of the implementation of REST API and our u
   1. Build a model using Jupyter Notebook, which is Credit Scoring prediction using Decision Tree.<br>
   2. Save the model object as a pickle file (serialization) => 'DecisionTree.pkl'<br>
   3. Create flask environment that will have an API endpoint.  <br>
-  4. Upload the flask script along with the trained model on *pythonanywhere*. <br>
+  4. Upload the flask script along with the trained model on *pythonanywhere* => 'flask_app_credit_scoring.py'<br>
   5. Make requests to the hosted flask script through *Postman*.
 
 In the coding part, there will be three files created:<br>
@@ -64,6 +64,7 @@ First, you need to copy my *pythonanywhere* link to connect with the server : ri
 
 ![Credit](Credit.JPG)
 
+The full example of input data is on 'input_postman.txt'.<br>
 And then you need to make sure that the 'Header' and 'Temporary Header' format is as shown below.
 
 ![Body](Body.JPG)

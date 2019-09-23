@@ -59,7 +59,8 @@ The result of this prediction will be:<br>
 
 **IV. How The Model Interface Works**<br>
 
-As statement above, this API deployment will be testing on API testing called *Postman*. How the user interface in Postman works will be explained in the notepad => 'how_test_works.txt'
+As statement above, this API deployment will be testing on API testing called *Postman*. How the user interface in Postman works?
+First, you need to copy my *pythonanywhere* link to connect with the server : rimaanr.pythonanywhere.com/api and paste it with format POST like in this picture below. And then you need to make sure that the 'Header' format
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖<br>
 
 **V. Interpretation**<br>
